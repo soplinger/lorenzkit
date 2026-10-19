@@ -1,0 +1,21 @@
+# Household incomes for a small town, per year in whole currency units.
+# Format: label, value[, weight[, group]]
+# weight = number of people the household represents (default 1)
+# group  = neighbourhood (default (none))
+#
+# label, income, people, neighbourhood
+Alder Row,    18500, 2, riverside
+Birch Court,  24000, 3, riverside
+Cedar Close,  31000, 4, riverside
+Dunmore,      42000, 2, hilltop
+Elm Lane,     47500, 3, hilltop
+Fernhill,    58000, 4, hilltop
+Grove End,    64500, 2, hilltop
+Hazel Way,    71000, 3, centre
+Ivy House,   89000, 1, centre
+Juniper,    112000, 2, centre
+Kestrel,     250000, 1, centre
+Larch Yard,   36000, 2, riverside
+Maple Terr,   52000, 3, hilltop
+Nettle Walk,  27500, 4, riverside
+Oak Ridge,   139000, 2, centre
